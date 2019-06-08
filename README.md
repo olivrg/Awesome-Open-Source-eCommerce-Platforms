@@ -9,7 +9,7 @@
 
 # Languages
 
-- [C#](#c#)
+- [C#](#c sharp)
 - [Elixir](#elixir)
 - [Go](#go)
 - [Javascript](#Javascript)
@@ -17,7 +17,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 
-# C
+# C sharp
 
 | Name                                                       |                                        Description                                         | Framework |
 | :--------------------------------------------------------- | :----------------------------------------------------------------------------------------: | :-------: |
@@ -32,7 +32,9 @@
 
 # Go
 
-| [QOR]() | QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems. | None |
+| Name                              |                                                              Description                                                               | Framework |
+| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+| [QOR](https://github.com/qor/qor) | QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems. |   None    |
 
 # Javascript
 
