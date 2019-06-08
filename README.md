@@ -9,7 +9,7 @@
 
 # Languages
 
-- [C#](#c sharp)
+- [C#](#c-sharp)
 - [Elixir](#elixir)
 - [Go](#go)
 - [Javascript](#Javascript)
@@ -17,7 +17,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 
-# C sharp
+# C-sharp
 
 | Name                                                       |                                        Description                                         | Framework |
 | :--------------------------------------------------------- | :----------------------------------------------------------------------------------------: | :-------: |
