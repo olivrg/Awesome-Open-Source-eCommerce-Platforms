@@ -12,6 +12,7 @@
 - [C#](#c-sharp)
 - [Elixir](#elixir)
 - [Go](#go)
+- [Java](#java)
 - [Javascript](#Javascript)
 - [PHP](#php)
 - [Python](#python)
@@ -35,6 +36,12 @@
 | Name                              |                                                              Description                                                               | Framework |
 | :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
 | [QOR](https://github.com/qor/qor) | QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems. |   None    |
+
+# Java
+
+| Name                                                       |                                                               Description                                                               | Framework |
+| :--------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+| [Shopizer](https://github.com/shopizer-ecommerce/shopizer) | An open customizable e-commerce solution to help you create secure, fast and reliable online stores, marketplaces and B2B applications. |  Spring   |
 
 # Javascript
 
