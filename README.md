@@ -76,6 +76,7 @@
 
 | Name                                            |                                                             Description                                                             |   Framework   |
 | :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: | :-----------: |
+| [Sharetribe](https://github.com/sharetribe/sharetribe) | Sharetribe Go is an open source marketplace platform, also available with SaaS model. See also Sharetribe Flex, a headless marketplace solution. | Ruby on Rails |
 | [Solidus](https://github.com/solidusio/solidus) | Solidus is a complete open source ecommerce solution built with Ruby on Rails. It is a fork of [Spree](https://spreecommerce.org/). | Ruby on Rails |
 | [Spree](https://github.com/spree/spree)         |                     Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails.                     | Ruby on Rails |
 
