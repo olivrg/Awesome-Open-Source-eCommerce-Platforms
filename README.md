@@ -56,6 +56,7 @@
 | Name                                                                    |                                                       Description                                                        |  Framework  |
 | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: | :---------: |
 | [Aimeos-Laravel](https://github.com/aimeos/aimeos-laravel)              |                  Aimeos is a professional, full-featured and ultra fast e-commerce package for Laravel                   |   Laravel   |
+| [Avored](https://github.com/avored/laravel-ecommerce)                   |                                      Avored is a Laravel Open Source Shopping Cart                                       |   Laravel   |
 | [Bagisto](https://github.com/bagisto/bagisto)                           |            A Free and Opensource laravel eCommerce framework built for all to build and scale your business.             |   Laravel   |
 | [Magento Open source](https://magento.com/products/magento-open-source) | Magento Open Source eCommerce delivers the features you need to build and grow a unique online store from the ground up. |   Magento   |
 | [Opencart]()                                                            |              A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.               |  Opencart   |
@@ -74,11 +75,11 @@
 
 # Ruby
 
-| Name                                            |                                                             Description                                                             |   Framework   |
-| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: | :-----------: |
+| Name                                                   |                                                                   Description                                                                    |   Framework   |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: |
 | [Sharetribe](https://github.com/sharetribe/sharetribe) | Sharetribe Go is an open source marketplace platform, also available with SaaS model. See also Sharetribe Flex, a headless marketplace solution. | Ruby on Rails |
-| [Solidus](https://github.com/solidusio/solidus) | Solidus is a complete open source ecommerce solution built with Ruby on Rails. It is a fork of [Spree](https://spreecommerce.org/). | Ruby on Rails |
-| [Spree](https://github.com/spree/spree)         |                     Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails.                     | Ruby on Rails |
+| [Solidus](https://github.com/solidusio/solidus)        |       Solidus is a complete open source ecommerce solution built with Ruby on Rails. It is a fork of [Spree](https://spreecommerce.org/).        | Ruby on Rails |
+| [Spree](https://github.com/spree/spree)                |                           Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails.                            | Ruby on Rails |
 
 ### Contributing
 
