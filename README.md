@@ -59,11 +59,12 @@
 | [Avored](https://github.com/avored/laravel-ecommerce)                   |                                      Avored is a Laravel Open Source Shopping Cart                                       |   Laravel   |
 | [Bagisto](https://github.com/bagisto/bagisto)                           |            A Free and Opensource laravel eCommerce framework built for all to build and scale your business.             |   Laravel   |
 | [Magento Open source](https://magento.com/products/magento-open-source) | Magento Open Source eCommerce delivers the features you need to build and grow a unique online store from the ground up. |   Magento   |
-| [Opencart]()                                                            |              A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.               |  Opencart   |
+| [Opencart](https://github.com/opencart/opencart)                        |              A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.               |  Opencart   |
 | [OroCommerce](https://github.com/oroinc/orocommerce-application)        |                                  An open-source Business to Business Commerce platform.                                  | OroCommerce |
 | [PrestaShop](https://github.com/PrestaShop/PrestaShop)                  |                            PrestaShop offers a fully scalable open source ecommerce solution.                            | PrestaShop  |
 | [Sylius](https://github.com/Sylius/Sylius)                              |                             Sylius is an Open Source eCommerce Framework on top of Symfony.                              |   Symfony   |
-| [Thelia]()                                                              |               Thelia is an open source tool for creating e-business websites and managing online content.                |   Symfony   |
+| [Thelia](https://github.com/thelia/thelia)                              |               Thelia is an open source tool for creating e-business websites and managing online content.                |   Symfony   |
+| [Yupe](https://github.com/yupe/yupe)                                    |                          Yupe! is an open source Yiiframework-based online e-commerce solution.                          |     Yii     |
 
 # Python
 
