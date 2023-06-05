@@ -1,6 +1,6 @@
-![Open Source E-commerce Platforms](https://imgur.com/RwADfWz.png)
+![Awesome Open Source E-commerce Platforms](https://imgur.com/RwADfWz.png)
 
-<h3 align="center">Open Source E-commerce Platforms</h3>
+<h3 align="center">Awesome Open Source E-commerce Platforms</h3>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
