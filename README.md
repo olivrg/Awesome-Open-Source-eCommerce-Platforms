@@ -66,6 +66,7 @@
 | [Sylius](https://github.com/Sylius/Sylius)                              |                             Sylius is an Open Source eCommerce Framework on top of Symfony.                              |   Symfony   |
 | [Thelia](https://github.com/thelia/thelia)                              |               Thelia is an open source tool for creating e-business websites and managing online content.                |   Symfony   |
 | [Yupe](https://github.com/yupe/yupe)                                    |                          Yupe! is an open source Yiiframework-based online e-commerce solution.                          |     Yii     |
+| [WooCommerce](https://github.com/woocommerce/woocommerce)                              |               A customizable, open-source ecommerce platform built on WordPress.                |   WordPress   |
 
 # Python
 
