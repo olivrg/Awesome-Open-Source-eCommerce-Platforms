@@ -52,7 +52,7 @@
 | [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) | PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. |  Magento  |
 | [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) |             eCommerce storefront for Litekart.in, Shopify, MedusaJs               |   Node    |
 | [Vendure](https://github.com/vendure-ecommerce/vendure) | Headless commerce platform built with customization and developer experience in mind.     |   Nest.js |
-| [MedusaJS](https://github.com/medusajs/medusa) | Headless commerce platform built with customization and developer experience in mind.              | Express.js |
+| [MedusaJS](https://github.com/medusajs/medusa) | A customizable headless commerce platform focused on delivering an exceptional developer experience.| Express.js |
 
 # PHP
 
