@@ -53,6 +53,7 @@
 | [Vendure](https://github.com/vendure-ecommerce/vendure) | Headless commerce platform built with customization and developer experience in mind.     |   Nest.js |
 | [MedusaJS](https://github.com/medusajs/medusa) | A customizable headless commerce platform focused on delivering an exceptional developer experience.| Express.js |
 | [Evershop](https://evershop.io/) | Your All-in-One open source ecommerce solution. | Express.js |
+| [OneEntry Next.js Shop App](https://github.com/ONEENTRY-PLATFORM/nextjs-shop-demo) | Open-source storefront template (reference implementation) integrated with OneEntry headless commerce backend. | Next.js |
 
 # PHP
 
