@@ -17,6 +17,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for e-commerce platform workflow orchestration, automated online store management, and multi-agent coordination. MIT licensed.
 
 # C-sharp
 
