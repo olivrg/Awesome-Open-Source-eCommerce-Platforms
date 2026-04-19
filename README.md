@@ -9,11 +9,13 @@
 
 # Languages
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [C#](#c-sharp)
 - [Elixir](#elixir)
 - [Go](#go)
 - [Java](#java)
 - [Javascript](#Javascript)
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
