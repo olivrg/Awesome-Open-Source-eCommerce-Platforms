@@ -95,3 +95,4 @@ Contributions, questions and comments are welcome and encouraged.
 ## License
 
 [MIT License](http://opensource.org/licenses/MIT).
+- [Spwig](https://github.com/Spwig/commerce) — self-hosted e-commerce platform with AGPL-3.0 license, built on Django 5 and deployable with Docker
