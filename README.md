@@ -49,7 +49,7 @@
 | :------------------------------------------------------------- | :--------------------------------------------------------------------------------: | :-------: |
 | [Reaction](https://github.com/reactioncommerce/reaction)       |   Reaction is a customizable, real-time reactive, JavaScript commerce platform.    |  Meteor   |
 | [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) | PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. |  Magento  |
-| [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) |             eCommerce storefront for Litekart.in, Shopify, MedusaJs               |   Node    |
+| [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) | Headless eCommerce storefront with connector packages for 26 commerce backends, including Vendure, Medusa, Shopify and WooCommerce. | SvelteKit |
 | [Vendure](https://github.com/vendure-ecommerce/vendure) | Headless commerce platform built with customization and developer experience in mind.     |   Nest.js |
 | [MedusaJS](https://github.com/medusajs/medusa) | A customizable headless commerce platform focused on delivering an exceptional developer experience.| Express.js |
 | [Evershop](https://evershop.io/) | Your All-in-One open source ecommerce solution. | Express.js |
