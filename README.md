@@ -22,7 +22,7 @@
 
 | Name                                                       |                                        Description                                         | Framework |
 | :--------------------------------------------------------- | :----------------------------------------------------------------------------------------: | :-------: |
-| [Grandnode](https://github.com/grandnode/grandnode)        | A free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB. |  ASP.NET  |
+| [GrandNode](https://github.com/grandnode/grandnode2)       | Open-source e-commerce platform for .NET 10 and MongoDB: multi-store, multi-vendor marketplace, B2B/B2C, headless REST API, Vue 3 storefront, Docker. |  ASP.NET  |
 | [nopCommerce](https://github.com/nopSolutions/nopCommerce) |                 A free open-source ecommerce shopping cart (ASP.NET Core).                 |  ASP.NET  |
 
 # Elixir
