@@ -80,6 +80,7 @@
 | [Django-Oscar](https://github.com/django-oscar/django-oscar) |                               A domain-driven e-commerce for Django                                |  Django   |
 | [Saleor](https://github.com/mirumee/saleor)                  | A modular, high performance e-commerce storefront built with Python, GraphQL, Django, and ReactJS. |  Django   |
 | [Shuup](https://github.com/shuup/shuup)                      |                          A Django-based open source e-commerce platform.                           |  Django   |
+| [Stall](https://github.com/bloriner/stall)                 |                    MCP-native storefront kit for AI agents, stdlib-only Python                    | MCP/Python |
 
 # Ruby
 
